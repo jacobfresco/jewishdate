@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       JewishDate
- * Plugin URI:        https://www.jacobfresco.nl/wordpress/jewishdate/
+ * Plugin URI:        https://github.com/jacobfresco/jewishdate
  * Description:       A plugin that provides Hebrew dates in Wordpress (both fonetic and Hebrew (r-t-l). Includes a two widgets for dynamic sidebars. The idea for this plugin came from the wonderfull Hebrew Date-plugin by KosherJava. Unfortunately, that plugin didn't have the possibility to display the current date in Hebrew i.e. in the sidebar.
  * Version:           0.6
  * Requires PHP:      5.3
