@@ -11,7 +11,7 @@ The idea for this plugin came from the wonderfull Hebrew Date-plugin by [KosherJ
 
 * 0.6 - Deprecated split() replaced by explode() in source
 * 0.5 - Support for native hebrew (RTL); extra widget
-* 0.4  - Added widgets
+* 0.4 - Added widgets
 * 0.3 - Small fix for the sixth month (Adar)
 * 0.2 - First commit
 * 0.1 - Never released
